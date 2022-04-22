@@ -1,4 +1,4 @@
-# Building-Statistical-Models-in-R-Linear-Regression
+# Building Statistical Models in R Linear Regression
 
 ### Project Objectives
 In this project, I am going to focus on three learning objectives:
