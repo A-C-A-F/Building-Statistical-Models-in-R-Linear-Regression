@@ -17,3 +17,5 @@ In this project, I am going to focus on three learning objectives:
 - __Task 8:__ Model Prediction
 - __Task 9:__ Assumptions Check: Diagnostic Plots
 - __Task 10:__ Multiple Regression
+
+### The codes and result can be found at the "Building-Statistical-Models-in-R-Linear-Regression.docx".
